@@ -1,0 +1,13 @@
+header {
+  height: 60px;
+}
+
+.logo {
+  height: 40px;
+}
+
+.story {
+  height: 180px;
+  padding-left: 120px;
+  padding-right: 120px;
+}
